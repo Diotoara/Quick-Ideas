@@ -1,4 +1,4 @@
-# SparkSwipe 🚀
+# Quick-Ideas 🚀
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-sparkswipe.netlify.app-brightgreen?style=for-the-badge)](https://sparkswipe.netlify.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
@@ -10,13 +10,13 @@
 
 ## 🌟 Overview
 
-SparkSwipe revolutionizes how entrepreneurs and innovators discover and share startup ideas. Inspired by the intuitive swipe mechanics of modern dating apps, SparkSwipe transforms the traditional list-view experience into an engaging, Tinder-style interface for exploring innovative concepts.
+Quick-Ideas revolutionizes how entrepreneurs and innovators discover and share startup ideas. Inspired by the intuitive swipe mechanics of modern dating apps, Quick-Ideas transforms the traditional list-view experience into an engaging, Tinder-style interface for exploring innovative concepts.
 
 ### 🎯 The Vision
 
 *"What if discovering ideas felt as intuitive and exciting as swiping through Tinder?"*
 
-That's the question that sparked SparkSwipe's creation. Instead of scrolling through endless lists, users can now swipe right on innovation — literally! Our platform makes idea discovery addictive and fun while maintaining the professional depth needed for serious entrepreneurs.
+That's the question that sparked Quick-Ideas's creation. Instead of scrolling through endless lists, users can now swipe right on innovation — literally! Our platform makes idea discovery addictive and fun while maintaining the professional depth needed for serious entrepreneurs.
 
 ## ✨ Key Features
 
@@ -61,8 +61,8 @@ That's the question that sparked SparkSwipe's creation. Instead of scrolling thr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SparkSwipe.git
-   cd SparkSwipe
+   git clone https://github.com/Diotoara/Quick-Ideas
+   cd Quick-Ideas
    ```
 
 2. **Install dependencies**
@@ -266,7 +266,7 @@ SOFTWARE.
 
 **Made with ❤️ for the startup community**
 
-[🌐 Live Demo](https://sparkswipe.netlify.app) • [📧 Contact](mailto:ashmes16@gmail.com) • [🐦 Twitter](https://twitter.com/ashmes16) • [💼 LinkedIn](https://www.linkedin.com/in/mohammad-ehshan-4362a0298)
+[🌐 Live Demo](https://SparkSwipe.netlify.app) • [📧 Contact](mailto:ashmes16@gmail.com) • [🐦 Twitter](https://twitter.com/ashmes16) • [💼 LinkedIn](https://www.linkedin.com/in/mohammad-ehshan-4362a0298)
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
